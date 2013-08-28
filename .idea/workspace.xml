@@ -17,7 +17,7 @@
     <file path="/help.html.erb" changelist="14310de3-42e4-4afd-b6d5-f6d37559195e" time="1375252151611" ignored="false" />
     <file path="/application.html.erb" changelist="14310de3-42e4-4afd-b6d5-f6d37559195e" time="1377485915039" ignored="false" />
     <file path="/contact.html.erb" changelist="14310de3-42e4-4afd-b6d5-f6d37559195e" time="1375253500018" ignored="false" />
-    <file path="/Gemfile" changelist="14310de3-42e4-4afd-b6d5-f6d37559195e" time="1377478959283" ignored="false" />
+    <file path="/Gemfile" changelist="14310de3-42e4-4afd-b6d5-f6d37559195e" time="1377630504629" ignored="false" />
     <file path="/database.yml" changelist="14310de3-42e4-4afd-b6d5-f6d37559195e" time="1375256662260" ignored="false" />
     <file path="/.gitignore" changelist="14310de3-42e4-4afd-b6d5-f6d37559195e" time="1375256865152" ignored="false" />
     <file path="/Guardfile" changelist="14310de3-42e4-4afd-b6d5-f6d37559195e" time="1375298680033" ignored="false" />
@@ -106,7 +106,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="31" selection-start="785" selection-end="785" vertical-scroll-proportion="0.728223">
+            <state line="15" column="18" selection-start="314" selection-end="314" vertical-scroll-proportion="0.6271777">
               <folding />
             </state>
           </provider>
@@ -857,7 +857,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="31" selection-start="785" selection-end="785" vertical-scroll-proportion="0.728223">
+        <state line="15" column="18" selection-start="314" selection-end="314" vertical-scroll-proportion="0.6271777">
           <folding />
         </state>
       </provider>
